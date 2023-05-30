@@ -9,5 +9,6 @@ export default function solution(content){
 
   const countOfData = weatherData.length;
   console.log(`Count: ${countOfData}`);
+  
   // END
 }
